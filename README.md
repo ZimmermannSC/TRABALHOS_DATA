@@ -3,6 +3,10 @@
 Carregando e Visualizando Dados:
 
 Crie um DataFrame de exemplo com dados fictícios.
+'Nome'
+'Idade'
+'Departamento'
+'Salario'
 
 Exiba as primeiras linhas do DataFrame usando head() para entender a estrutura dos dados.
 
