@@ -20,3 +20,17 @@ print(df.head())
 #Utilize info() para obter informações sobre as colunas e tipos de dados.
 
 print(df.info())
+
+#Selecione uma ou várias colunas específicas do DataFrame.
+
+colunas_selecionadas = df[['Nomes', 'Departamento']]
+
+print(colunas_selecionadas)
+
+
+#Crie uma nova coluna calculada com base em valores existentes.
+
+
+
+#Crie um gráfico de linhas para visualizar uma tendência ao longo do tempo.
+
