@@ -34,4 +34,3 @@ df['valor_anual'] = df['Salario'] * 12
 print(df)
 
 #Crie um gráfico de linhas para visualizar uma tendência ao longo do tempo.
-
